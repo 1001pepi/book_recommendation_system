@@ -1,4 +1,4 @@
-# book_recommendation_sysem
+# book_recommendation_system
 
 In this project, we are going to build a book recommendation system. For that, we kneed the list of the books we like and the data on books rating on which we will base our recommendations.
 
